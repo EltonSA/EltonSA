@@ -1,12 +1,4 @@
 <h1 align="center">🌌 Welcome, I'm Elton Santos! 🚀</h1>
-
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="150px"
-  />
-</p>
-
 <p align="center">
   Data Analytics | Developer | Business AI | Automate Processes | Server Analytics 💻
 </p>
