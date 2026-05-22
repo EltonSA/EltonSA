@@ -36,18 +36,6 @@
   <code><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" title="Django" /></code>
   <code><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title="WordPress" /></code>
 </p>
-
-## 🔒 Cybersecurity Tools
-
-<p align="center">
-  <code><img width="60px" src="https://nmap.org/images/sitelogo-nmap.svg" title="Nmap" /></code>
-  <code><img width="60px" src="https://www.kali.org/images/kali-tools-icon-missing.svg" title="Whois" /></code>
-  <code><img width="60px" src="https://www.kali.org/tools/recon-ng/images/recon-ng-logo.svg" title="Recon-ng" /></code>
-  <code><img width="60px" src="https://www.kali.org/tools/theharvester/images/theharvester-logo.svg" title="The Harvester" /></code>
-  <code><img width="60px" src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" title="Nikto" /></code>
-  <code><img width="60px" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="Burp Suite" /></code>
-</p>
-
 ## 🌟 GitHub Stats
 
 <p align="center">
